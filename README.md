@@ -1,3 +1,18 @@
+## Description
+🎯 Development was **strictly focused** on addressing the challenge and **making specific code improvements**.
+
+## Summary
+Primary objectives of the challenge:
+- ✅ Implemented of the `SmartPhone` abstract class
+- ✅ Implemented of the `Nokia` class
+- ✅ Implemented of the `Iphone` class
+- ✅ Implemented of the basic tests for `Nokia` and `iPhone` features in `Program.cs`
+
+Additional contributions to the project:
+- 🔧 Updated project to **.NET 8**
+
+---
+
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
