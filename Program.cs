@@ -8,4 +8,9 @@ Iphone iphone = new Iphone("Iphone", "Iphone X", "10987654321", 128);
 iphone.Numero = "91111-1111";
 
 iphone.InstalarAplicativo("Whatsapp");
+iphone.Ligar();
+iphone.ReceberLigacao();
+
 nokia.InstalarAplicativo("Facebook");
+nokia.Ligar();
+nokia.ReceberLigacao();
